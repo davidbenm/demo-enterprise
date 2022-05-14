@@ -55,7 +55,7 @@ h1, h2 {
 
 .nav-item {
     padding: 0 1rem;
-    background-color: #065b7d;
+    background-color: #112B3C;
 }
 
 .nav-link {
@@ -70,7 +70,7 @@ h1, h2 {
 
 .navbar {
     height: 6rem;
-    background-color: #065b7d;
+    background-color: #112B3C;
     width: 100%;
 }
 
@@ -107,6 +107,7 @@ h1, h2 {
 
 #history {
     padding: 8% 25%;
+    color: #065b7d;
 }
 
 /* 06 - Pilllars */
@@ -127,6 +128,7 @@ h1, h2 {
 
 #footer {
     padding: 8%;
+    color: #065b7d;
 }
 
 .social-icon {
